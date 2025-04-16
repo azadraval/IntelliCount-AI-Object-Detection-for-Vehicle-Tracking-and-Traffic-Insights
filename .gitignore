@@ -1,0 +1,51 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE configuration
+.idea/
+.vscode/
+
+# Output files
+outputs/
+*.mp4
+*.avi
+*.mov
+
+# Log files
+*.log
+
+# Large model files
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Documents
+*.docx
+*.xlsx
+*.pptx
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# jupyter notebooks (if any)
+.ipynb_checkpoints/
+*.ipynb 
