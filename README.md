@@ -2,6 +2,10 @@
 
 A computer vision system that detects, counts, and tracks vehicles in traffic videos using YOLOv8, developed as a final year B.Tech capstone project.
 
+## Author
+
+**Azad Raval** - Developer and Creator
+
 ## Project Overview
 
 This project uses state-of-the-art object detection to analyze traffic footage. It can identify cars, trucks, buses, and motorcycles in videos, and provide real-time statistics and comprehensive reports. IntelliCount was developed to create an efficient solution for traffic monitoring and analysis using AI-powered detection techniques.
@@ -290,5 +294,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Feel free to contact me for questions or collaborations on this project.
 
+**Azad Raval**
+- GitHub: [azadraval](https://github.com/azadraval)
+
 ---
-Created as a Final Year B.Tech Capstone Project
+Created as a Final Year B.Tech Capstone Project by Azad Raval
