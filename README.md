@@ -171,7 +171,7 @@ If you're interested in using this project as a foundation for your own work or 
    ```
 
 2. **Get Sample Videos**: If you don't have traffic footage to test with:
-   - Sample traffic videos can be downloaded from [Pexels](https://www.pexels.com/search/videos/traffic/)
+   - Sample traffic videos can be downloaded from [Pixabay](https://pixabay.com/videos/india-crossroads-traffic-busy-road-8698/)
    - Place video files in the project root directory or specify their path using the `--video` parameter
 
 3. **Alternative YOLOv8 Models**: For different performance/accuracy tradeoffs:
