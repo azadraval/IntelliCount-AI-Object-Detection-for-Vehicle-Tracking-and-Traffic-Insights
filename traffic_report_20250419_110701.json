@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-04-19T11:07:01.457551",
+  "model": "yolov8m.pt",
+  "device": "cpu",
+  "processing_stats": {
+    "total_processing_time_seconds": 0.6658990383148193,
+    "average_fps": 1.5017291548140466
+  },
+  "vehicle_counts": {
+    "total": 3581,
+    "by_type": {
+      "car": 1220,
+      "truck": 387,
+      "bus": 184,
+      "motorcycle": 1790
+    }
+  }
+}
